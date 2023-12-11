@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! 👋 I'm Vatsal - Data Science Explorer
 
-<!--
-**Vatsal-Jha256/Vatsal-Jha256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd year undergraduate at VIT Vellore exploring my passion for data science and machine learning.
 
-Here are some ideas to get you started:
+I love coding up statistics, ML models and neural networks to unlock insights. My goal is to unravel some of AI's mysteries through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of data world, I enjoy strumming my guitar, reading mythology novels, stargazing and hanging out with fascinating minds.
+
+Over time, I hope this profile becomes a window into my adventures cracking codes, doing math, and building smart systems with data. Feel free to poke around my repositories and projects!
+
+I'd love to hear about what fascinates you, or collaborate on something data/AI related. Don't hesitate to reach out!
+
+Let me know if you'd like me to elaborate on any specific parts. I tried keeping it high-level while highlighting your tech interests and colorful personality!
