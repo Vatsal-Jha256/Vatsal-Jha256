@@ -15,7 +15,6 @@ I'd love to hear about what fascinates you, or **collaborate** on something **da
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vatsal-Jha256&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
 
-<img src="https://myreadme.vercel.app/api/embed/Vatsal-Jha256?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vatsal-Jha256&theme=tokyonight" alt="mystreak"/>
 
