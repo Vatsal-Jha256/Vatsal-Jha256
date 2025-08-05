@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Vatsal
 
-I'm a **3rd year** undergraduate at **VIT Vellore** exploring my passion for **data science and machine learning.**
+I'm a **4th year** undergraduate at **VIT Vellore** exploring my passion for **data science and machine learning.**
 
 I love coding up statistics, ML models and neural networks to unlock insights. My goal is to unravel some of AI's mysteries through hands-on projects.
 
